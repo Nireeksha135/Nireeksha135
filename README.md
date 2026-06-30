@@ -106,7 +106,7 @@ Whether I'm conducting UX research, designing interfaces, or developing applicat
 ## Connect
 
 **LinkedIn**  
-linkedin.com/in/nireeksha-k-r-2786b9314/
+[linkedin](https://www.linkedin.com/in/nireeksha-k-r-2786b9314/)
 
 **Email**  
 nishuniree135@gmail.com 
