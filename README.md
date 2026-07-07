@@ -10,7 +10,7 @@ My interests spans in Full-Stack Development, DataBase, Backend development, Dev
 
 ---
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Nireeksha135&theme=dracula&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nireeksha135&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
