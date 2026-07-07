@@ -33,7 +33,7 @@ UX research exploring cognitive load, automation bias, and debugging behavior in
 
 A Go-based API load testing framework built from scratch as a learning project. The goal is to understand concurrency, HTTP networking, worker pools, and performance metrics by implementing everything myself.
 
-**Repository:** [API_LOAD_TESTER](https://github.com/NitmreBlde/API_LOAD_TESTER)
+**Repository:** [API_LOAD_TESTER](https://github.com/Nireeksha135/API_LOAD_TESTER)
 
 ---
 ### Google Maps — Saved Places Redesign
