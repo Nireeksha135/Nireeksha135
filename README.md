@@ -46,59 +46,6 @@ A product redesign of Google Maps' Saved Places feature introducing Smart Collec
 ---
 
 
-## What I Enjoy Building
-
-- User-centered digital experiences
-- Full-stack web applications
-- UI/UX design systems
-- AI-integrated applications
-- Product redesigns
-- Developer-focused tools
-
-## Technical Skills
-
-### Development
-
-- Python
-- Java
-- JavaScript
-- c++
-- HTML
-- CSS
-- React
-- Flask
-- FastAPI
-- PostgreSQL
-
-### Design
-
-- Figma
-- UX Research
-- Wireframing
-- Prototyping
-- User Flows
-- Information Architecture
-- Interaction Design
-
-### Tools
-
-- Figma
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
-
-## Currently Exploring
-
-- Advanced React
-- AI-integrated Product Development
-- Scalable Front-End Architecture
-- Design Systems
-
----
-
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nireeksha-k-r-2786b9314/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishuniree135@gmail.com) 
