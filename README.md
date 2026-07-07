@@ -29,11 +29,11 @@ UX research exploring cognitive load, automation bias, and debugging behavior in
 
 ---
 
-### Zeus VPN
+### API_LOAD_TESTER
 
-A secure VPN management dashboard developed to simplify connection management, authentication, and network controls through a clean and accessible interface.
+A Go-based API load testing framework built from scratch as a learning project. The goal is to understand concurrency, HTTP networking, worker pools, and performance metrics by implementing everything myself.
 
-**Repository:** [Zeus](https://github.com/NitmreBlde/Zeus)
+**Repository:** [API_LOAD_TESTER](https://github.com/NitmreBlde/API_LOAD_TESTER)
 
 ---
 ### Google Maps — Saved Places Redesign
