@@ -17,6 +17,7 @@ My interests spans in Full-Stack Development, DataBase, Backend development, Dev
 An AI-powered Chronic Kidney Disease companion designed to support early risk prediction, personalized health insights, and conversational patient assistance through an intuitive healthcare experience.
 
 **Repository:** [NephroNet-CKD](https://github.com/NitmreBlde/NephroNet-CKD)
+**Language:JavaScript**
 
 ---
 
@@ -34,6 +35,7 @@ UX research exploring cognitive load, automation bias, and debugging behavior in
 A Go-based API load testing framework built from scratch as a learning project. The goal is to understand concurrency, HTTP networking, worker pools, and performance metrics by implementing everything myself.
 
 **Repository:** [API_LOAD_TESTER](https://github.com/Nireeksha135/API_LOAD_TESTER)
+**Language:Go**
 
 ---
 ### Google Maps — Saved Places Redesign
