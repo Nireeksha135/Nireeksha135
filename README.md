@@ -21,7 +21,7 @@ My interests spans in Full-Stack Development, DataBase, Backend development, Dev
 An AI-powered Chronic Kidney Disease companion designed to support early risk prediction, personalized health insights, and conversational patient assistance through an intuitive healthcare experience.
 
 **Repository:** [NephroNet-CKD](https://github.com/NitmreBlde/NephroNet-CKD)
-**Language:JavaScript**
+**Language: JavaScript**
 
 ---
 
@@ -34,12 +34,21 @@ UX research exploring cognitive load, automation bias, and debugging behavior in
 
 ---
 
+### RepoLens
+
+RepoLens is a modern AI developer tool that analyzes repositories, maps code relationships, visualizes system architecture, detects dependencies, and enables intelligent codebase exploration through interactive graphs and natural-language queries.
+
+**Repository:** [Repolens](https://github.com/Nireeksha135/RepoLens)
+**Language: Python**
+
+---
+
 ### API_LOAD_TESTER
 
 A Go-based API load testing framework built from scratch as a learning project. The goal is to understand concurrency, HTTP networking, worker pools, and performance metrics by implementing everything myself.
 
 **Repository:** [API_LOAD_TESTER](https://github.com/Nireeksha135/API_LOAD_TESTER)
-**Language:Go**
+**Language: Go**
 
 ---
 ### Google Maps — Saved Places Redesign
@@ -51,7 +60,6 @@ A product redesign of Google Maps' Saved Places feature introducing Smart Collec
 
 ---
 
-
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nireeksha-k-r-2786b9314/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nireeksha-k-r-2786b9314/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishuniree135@gmail.com) 
