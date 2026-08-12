@@ -130,6 +130,17 @@ A product redesign focused on improving trip planning, organization, and collabo
 
 ---
 
+## Current Interests
+
+- Developer Experience (DevEx)
+- AI-Assisted Workflows
+- Product Design
+- Human-AI Interaction
+- Full-Stack Systems
+- Data Visualization
+
+---
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nireeksha-k-r-2786b9314/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishuniree135@gmail.com) 
