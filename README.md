@@ -74,7 +74,7 @@ AI-powered chronic kidney disease companion that combines machine learning, PDF 
 
 **Tech:** React · FastAPI · Python · Scikit-Learn · Gemini API · SQLAlchemy
 
- Repository: ![NephroNet CKD Companion](https://github.com/Nireeksha135/NephroNet-CKD)
+ Repository: [NephroNet CKD Companion](https://github.com/Nireeksha135/NephroNet-CKD)
 
 ---
 
@@ -84,7 +84,7 @@ Developer intelligence platform that analyzes repositories and generates interac
 
 **Tech:** React Flow · FastAPI · Python AST Analysis · NetworkX
 
- Repository: ![RepoLens](https://github.com/Nireeksha135/RepoLens)
+ Repository: [RepoLens](https://github.com/Nireeksha135/RepoLens)
 
 ---
 
@@ -98,7 +98,7 @@ UX research investigating cognitive load, automation bias, and debugging behavio
 - Retrospective Cued Recall
 - Developer Interviews
 
- Repository: ![The Trust Gradient](https://github.com/Nireeksha135/Ai_Debugging_UX)
+ Repository: [The Trust Gradient](https://github.com/Nireeksha135/Ai_Debugging_UX)
 
 ---
 
@@ -108,7 +108,7 @@ Concurrent API load testing framework built in Go to explore worker pools, netwo
 
 **Tech:** Go · Goroutines · Channels · Worker Pools
 
- Repository: ![API Load Tester](https://github.com/Nireeksha135/API_LOAD_TESTER)
+ Repository: [API Load Tester](https://github.com/Nireeksha135/API_LOAD_TESTER)
 
 ---
 
@@ -118,7 +118,7 @@ Luxury jewelry e-commerce experience focused on storytelling, premium branding, 
 
 **Focus:** UI Design · Interaction Design · Frontend Experience
 
- Repository: ![Solara Royale](https://github.com/Nireeksha135/Solara_Royale)
+ Repository: [Solara Royale](https://github.com/Nireeksha135/Solara_Royale)
 
 ---
 
@@ -126,7 +126,7 @@ Luxury jewelry e-commerce experience focused on storytelling, premium branding, 
 
 A product redesign focused on improving trip planning, organization, and collaboration through Smart Collections and Collaborative Itineraries.
 
- Repository: ![GoogleMaps Redesign](https://github.com/Nireeksha135/GMaps_CaseStudy)
+ Repository: [GoogleMaps Redesign](https://github.com/Nireeksha135/GMaps_CaseStudy)
 
 ---
 
